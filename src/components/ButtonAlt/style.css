@@ -1,0 +1,17 @@
+.button-alt {
+    width: 100%;
+    background-color: #41A55B;
+    border: 1px solid #000;
+    border-radius: 4px;
+    color: #473404;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    margin-bottom: 14px;
+}

@@ -1,0 +1,26 @@
+.form {
+    background-color: #1A1919;
+    padding: 20px;
+}
+
+.form__login{
+    margin-bottom: 20px;
+}
+
+.span{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color: #41A55B;
+    
+}
+
+.link {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #41A55B;
+    margin: 0;
+    font-weight: 700;
+    text-decoration: none;
+}
+
