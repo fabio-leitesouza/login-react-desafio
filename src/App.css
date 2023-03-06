@@ -36,9 +36,4 @@
         background-position: center;
         background-size: cover;
     }
-    .text-box__eye {
-        padding: 8px;
-        position: absolute;
-        right: 942px;   
-    }
 }
