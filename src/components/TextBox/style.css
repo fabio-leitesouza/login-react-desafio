@@ -13,6 +13,7 @@
 .text-box__icon {
     padding: 8px;
     position: absolute; 
+    margin-left: -35px;
 }
 
 .text-box__eye {
